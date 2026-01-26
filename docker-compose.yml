@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+  cinehub:
+    image: roven777/cinehub:latest
+    container_name: cinehub
+    ports:
+      - "80:80"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
