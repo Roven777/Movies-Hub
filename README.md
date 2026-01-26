@@ -1,4 +1,4 @@
-# CineHub - MOvie Discoery Web Application
+# CineHub - Movie Discoery Web Application
 
 |Live Demo|[Live Demo](https://cinehub-production-8631.up.railway.app/)|
 |:----------|-----------:|
