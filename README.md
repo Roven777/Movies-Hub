@@ -13,7 +13,7 @@ The application is fully containerized, automatically deployed on cloud infrastr
 
 ---
 
-## 🎯 Project Purpose
+## Project Purpose
 
 Cine-Hub was built to simulate a **real production-grade frontend application** with:
 
@@ -27,7 +27,7 @@ This project is suitable for **portfolios, interviews, and real-world frontend d
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 ### Frontend
 - **React (Vite)** – fast builds and modern tooling
@@ -49,7 +49,7 @@ This project is suitable for **portfolios, interviews, and real-world frontend d
 
 ---
 
-## ✨ Application Features
+## Application Features
 
 ### Animated Navigation Bar
 - Fixed navbar with glass-blur effect
@@ -101,7 +101,7 @@ Movies are shown in a responsive grid with:
 
 ---
 
-## 🧠 Architecture & State Management
+## Architecture & State Management
 
 - React Hooks (`useState`, `useEffect`)
 - Context API for global rotation state
@@ -110,7 +110,7 @@ Movies are shown in a responsive grid with:
 
 ---
 
-## 🐳 Dockerization
+## Dockerization
 
 The application is fully containerized using Docker.
 
@@ -125,7 +125,7 @@ Docker image is published to **Docker Hub**.
 
 ---
 
-## 🚀 Deployment on Railway
+## Deployment on Railway
 
 Cine-Hub is deployed on **Railway**, a free cloud platform.
 
@@ -137,7 +137,7 @@ Deployment includes:
 
 ---
 
-## 🔄 CI/CD – Auto Deployment
+## CI/CD – Auto Deployment
 
 Automatic redeployment is enabled via **GitHub → Railway integration**.
 
@@ -151,7 +151,7 @@ No manual deployment required after setup.
 
 ---
 
-## 🔌 Port Configuration
+## Port Configuration
 
 The app listens on:
 
