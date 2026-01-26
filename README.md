@@ -2,6 +2,7 @@
 
 |Live Demo|[Live Demo](https://cinehub-production-8631.up.railway.app/)|
 |:----------|-----------:|
+
 CineHub is a modern movie discovery web application built with React and Vite.
 
 ## Features
