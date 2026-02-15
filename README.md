@@ -1,6 +1,6 @@
 # CineHub - Movie Discoery Web Application
 
-|Live Demo|[Live Demo](https://cinehub-production-8631.up.railway.app/)|
+|Live Demo|[Live Demo](https://roven777.github.io/Movies-Hub/)|
 |:----------|-----------:|
 
 ## Overview
